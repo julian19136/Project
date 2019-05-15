@@ -7,7 +7,7 @@ void ofApp::setup(){
     
     move = 8;
     
-    // Set capture dimensions of 320x240, a common video size.
+    // Set capture dimensions of 640x400, a common video size.
     w = 640;
     h = 400;
     
